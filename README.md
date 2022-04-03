@@ -1,8 +1,9 @@
-<h1 align="center">Mazer Dashboard</h1>
+<h1 align="center">Mazer Dashboard (Dark and light mode)</h1>
 
 ![Screenshot](https://raw.githubusercontent.com/zuramai/mazer/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/zuramai/mazer/main/screenshot.png)
 
-<p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
+<p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. With jQuery dependency use for Dark mode.</p>
 <div align="center">
 
 [![All Contributors](https://img.shields.io/github/contributors/zuramai/mazer)](https://github.com/zuramai/mazer/graphs/contributors)
@@ -22,7 +23,7 @@
 1. Clone this repository or download as zip.
 
 ```sh
-git clone https://github.com/zuramai/mazer
+git clone https://github.com/kazemyavari/mazer-dark
 ```
 
 2. Open the `mazer/dist/index.html` file to see the dashboard.
@@ -37,10 +38,6 @@ git clone https://github.com/zuramai/mazer
 - [Django](https://github.com/bimbims125/mazer-django) by [@bimbims125](https://github.com/bimbims125/)
 - Did you make in another framework or tools? Open up Pull Requests and put yours here! 😃
 
-## Contributing
-
-Please follow [Contributing Guide](./CONTRIBUTING.md) before contribute.
-
 ## License
 
 Mazer is under [MIT License](./LICENSE).
@@ -48,9 +45,4 @@ Mazer is under [MIT License](./LICENSE).
 ## Author
 
 Mazer is created by <a href="https://ahmadsaugi.com">Ahmad Saugi</a>.
-
-## Donation
-
-You can support Ahmad Saugi at [Ko-fi](https://ko-fi.com/saugi) or [Trakteer](https://trakteer.id/saugi)
-
-<a href="https://buymeacoffee.com/saugi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Dark version developed by  <a href="https://github.com/kazemyavari">Kazem Yavari</a>.
