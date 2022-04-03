@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-	<a href="http://zuramai.github.io/mazer/demo">Demo Page</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://kazemyavari.freehost.io/mazer-dark">Demo Page</a>&nbsp;&nbsp;&nbsp;
 	<a href="http://zuramai.github.io/mazer/docs">Documentation Page</a>&nbsp;&nbsp;&nbsp;
 </p>
 
