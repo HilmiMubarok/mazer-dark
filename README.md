@@ -1,6 +1,7 @@
 <h1 align="center">Mazer Dashboard (Dark and light mode)</h1>
 
-![Screenshot](https://raw.githubusercontent.com/zuramai/mazer/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/kazemyavari/mazer-dark/main/dark-screenshot.png)
+<br>
 ![Screenshot](https://raw.githubusercontent.com/zuramai/mazer/main/screenshot.png)
 
 <p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. With jQuery dependency use for Dark mode.</p>
@@ -45,4 +46,5 @@ Mazer is under [MIT License](./LICENSE).
 ## Author
 
 Mazer is created by <a href="https://ahmadsaugi.com">Ahmad Saugi</a>.
+<br>
 Dark version developed by  <a href="https://github.com/kazemyavari">Kazem Yavari</a>.
