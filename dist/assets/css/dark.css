@@ -196,7 +196,7 @@
 }
 
 .theme-dark .dropdown-menu {
-    background-color: #1E1E2D;
+    background-color: #161b22;
     color: #92929F;
 }
 
@@ -302,4 +302,27 @@
 
 .theme-dark .email-application .content-area-wrapper .content-right .email-app-list-wrapper .email-app-list .email-action {
     border-bottom: 1px solid #435ebe;
+}
+
+.theme-dark .accordion-item {
+    background-color: #161b22;
+   
+}
+
+.theme-dark  .accordion-button:not(.collapsed) {
+    background-color: #0d1117;
+}
+
+.theme-dark .list-group-item {
+    background-color: #151521;
+}
+
+.theme-dark .list-group-item:hover{
+    background-color: #161b22;
+}
+
+
+.theme-dark .list-group-item.active {
+    background-color: #435ebe !important;
+    color: #fff !important;
 }
