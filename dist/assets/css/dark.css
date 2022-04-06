@@ -322,7 +322,7 @@
 }
 
 
-.theme-dark .list-group-item.active {
+.theme-dark #basic-list-group .list-group-item.active {
     background-color: #435ebe !important;
     color: #fff !important;
 }
